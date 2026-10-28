@@ -1,4 +1,4 @@
-# 🖥️ 'i3wm' Repository
+# 🖥️ `i3wm` Repository
 
 > **My personal i3wm configuration for Linux.**
 >
